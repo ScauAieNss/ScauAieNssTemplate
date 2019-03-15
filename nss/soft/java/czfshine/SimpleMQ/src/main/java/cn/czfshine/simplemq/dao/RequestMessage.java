@@ -2,7 +2,7 @@ package cn.czfshine.simplemq.dao;
 
 import java.io.Serializable;
 
-/**
+/**请求消息
  * @author:czfshine
  * @date:2018/11/27 15:04
  */

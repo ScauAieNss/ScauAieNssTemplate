@@ -18,8 +18,9 @@ import org.apache.logging.log4j.Logger;
 
 
 /**
- * 消息队列服务器
- *
+ * 消息队列服务器.
+ * 为了方便实现，每个端口暂时使用一个线程进行处理
+ * todo:多线程socket
  * @author:czfshine
  * @date:2018/11/26 13:06
  */

@@ -2,7 +2,7 @@ package cn.czfshine.simplemq.dao;
 
 import java.io.Serializable;
 
-/**
+/**商品对象--生产者生产，消费者消费的
  * @author:czfshine
  * @date:2018/11/27 10:10
  */
