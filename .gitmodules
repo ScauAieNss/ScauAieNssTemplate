@@ -1,0 +1,4 @@
+[submodule "nss/soft/java/czfshine/wechattool"]
+	path = nss/soft/java/czfshine/wechattool
+	url = https://github.com/czfshine/wechattool.git
+	branch = master
